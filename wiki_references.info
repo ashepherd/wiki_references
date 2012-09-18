@@ -1,0 +1,10 @@
+name = Wiki References
+description = "Add automatically numbered references to your wiki page."
+core = 7.x
+
+; Information added by drupal.org packaging script on 2011-03-13
+version = "7.x-2.5"
+core = "7.x"
+project = "wiki_references"
+datestamp = "1300041367"
+
